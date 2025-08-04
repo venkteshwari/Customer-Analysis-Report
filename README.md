@@ -1,13 +1,13 @@
 # Customer Analysis Report
 Interactive Tableau dashboard for customer analysis with segmentation, sales trends, top products/customers, and shipping insights using  E-commerce dataset.
 
-# 📊 Customer Analysis Dashboard – Tableau Project
+#  Customer Analysis Dashboard – Tableau Project
 
 This project features an interactive **Customer Analysis Dashboard** created using Tableau. The dashboard uncovers sales performance, customer behavior, product trends, and shipping preferences using an E-commerce dataset.
 
 ---
 
-## 🖼️ Dashboard Overview
+##  Dashboard Overview
 
 The dashboard includes the following visual components:
 
