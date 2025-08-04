@@ -10,7 +10,7 @@ This project features an interactive **Customer Analysis Dashboard** created usi
 ## Dashboard Preview
 
 ###  Screenshot 1  
-![Dashboard Screenshot 1](dashboard_screenshot1.png)
+![Dashboard Screenshot 1](Screenshot 2025-08-05 010048.png)
 
 ### Screenshot 2  
 ![Dashboard Screenshot 2](dashboard_screenshot2.png)
