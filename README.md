@@ -1,9 +1,19 @@
 # Customer Analysis Report
 Interactive Tableau dashboard for customer analysis with segmentation, sales trends, top products/customers, and shipping insights using  E-commerce dataset.
 
-#  Customer Analysis Dashboard – Tableau Project
+# Customer Analysis Dashboard – Tableau Project
 
 This project features an interactive **Customer Analysis Dashboard** created using Tableau. The dashboard uncovers sales performance, customer behavior, product trends, and shipping preferences using an E-commerce dataset.
+
+---
+
+## Dashboard Preview
+
+###  Screenshot 1  
+![Dashboard Screenshot 1](dashboard_screenshot1.png)
+
+### Screenshot 2  
+![Dashboard Screenshot 2](dashboard_screenshot2.png)
 
 ---
 
@@ -11,28 +21,28 @@ This project features an interactive **Customer Analysis Dashboard** created usi
 
 The dashboard includes the following visual components:
 
-- ** Sales Trend Over Time**  
+- **Sales Trend Over Time**  
   Line chart showing monthly sales trends across different customer segments.
 
-- ** Sales by City**  
+- **Sales by City**  
   Map visualization of total sales across U.S. cities, highlighting high-performing locations.
 
-- ** Unique Customers**  
+- **Unique Customers**  
   Bar chart displaying the top Customer IDs based on frequency or transaction count.
 
-- ** Customer Segment Analysis**  
+- **Customer Segment Analysis**  
   Pie chart summarizing total sales by segment: Consumer, Corporate, Home Office.
 
-- ** Sales by Category & Sub-Category (City-wise)**  
+- **Sales by Category & Sub-Category (City-wise)**  
   Horizontal bar chart showing % of total sales by sub-category across major cities.
 
-- ** Top 10 Customers by Sales**  
+- **Top 10 Customers by Sales**  
   Bar chart ranking customers by total sales contribution.
 
-- ** Top 10 Products by Sales**  
+- **Top 10 Products by Sales**  
   Product-level analysis highlighting the highest revenue-generating products.
 
-- ** Shipping Mode Usage**  
+- **Shipping Mode Usage**  
   Bubble chart showing shipping mode preferences: Standard Class, Second Class, First Class.
 
 ---
@@ -75,15 +85,13 @@ The dashboard includes the following visual components:
 
 ---
 
-## Tools & Technologies
+##  Tools & Technologies
 
 - **Tableau Desktop** – Visualization & Dashboarding  
 - **Excel / CSV** – Data preprocessing  
 - **GitHub** – Version control and project sharing
 
----
-
-## 🧾 Source Dataset
+##  Source Dataset
 E-commerce Sales Dataset : <a href="https://github.com/venkteshwari/Customer-Analysis-Report/blob/main/SalesData.xlsx">Download Dataset</a>
 
 
